@@ -19,16 +19,16 @@ def get_file(path, file_name):
 
         return name
 
-ActionCastData = get_file(r"C:\Users\nuzha\OneDrive\Desktop\507\Kavin_bacon\BaconData\ActionCast.txt", "ActionCast")
+#ActionCastData = get_file(r"C:\Users\nuzha\OneDrive\Desktop\507\Kavin_bacon\BaconData\ActionCast.txt", "ActionCast")
 #print(ActionCastData[2])
 
-Bacon06Data = get_file(r"C:\Users\nuzha\OneDrive\Desktop\507\Kavin_bacon\BaconData\Bacon_06.txt", "Bacon06")
+#Bacon06Data = get_file(r"C:\Users\nuzha\OneDrive\Desktop\507\Kavin_bacon\BaconData\Bacon_06.txt", "Bacon06")
 #print(Bacon06Data[2])
 
-BaconCast_00_06Data = get_file(r"C:\Users\nuzha\OneDrive\Desktop\507\Kavin_bacon\BaconData\BaconCast_00_06.txt", "BaconCast_00_06")
+#BaconCast_00_06Data = get_file(r"C:\Users\nuzha\OneDrive\Desktop\507\Kavin_bacon\BaconData\BaconCast_00_06.txt", "BaconCast_00_06")
 #print(BaconCast_00_06Data[1])
 
-BaconCastFullData = get_file(r"C:\Users\nuzha\OneDrive\Desktop\507\Kavin_bacon\BaconData\BaconCastFull.txt", "BaconCastFull")
+#BaconCastFullData = get_file(r"C:\Users\nuzha\OneDrive\Desktop\507\Kavin_bacon\BaconData\BaconCastFull.txt", "BaconCastFull")
 #print(BaconCastFullData[2])
 
 PopularCastData = get_file(r"c:\Users\nuzha\OneDrive\Desktop\507\Kavin_bacon\BaconData\PopularCast.txt", "PopularCast")
